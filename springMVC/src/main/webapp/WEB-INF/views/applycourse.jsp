@@ -15,7 +15,7 @@
 </head>
 <body>
 	<div class="container">
-		<h2>Apply Course for 2018 1st semester</h2>
+		<h2>Apply Course for 2018 1st Semester</h2>
 		<sf:form class="form-horizontal" method="post" action="${pageContext.request.contextPath}/doapply" modelAttribute="course">
 
 			<div class="form-group">
